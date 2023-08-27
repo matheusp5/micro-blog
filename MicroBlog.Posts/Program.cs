@@ -8,7 +8,7 @@ builder.Services.AddControllers();
 
 builder.Services.AddDbContext<DataContext>(options =>
 {
-    options.UseSqlite("Data Source=blog.db");
+    options.UseSqlite("Data Source=../MicroBlog.Core/blog.db", b => b.MigrationsAssembly("MicroBlog.Posts"));
 });
 
 builder.Services.AddEndpointsApiExplorer();
