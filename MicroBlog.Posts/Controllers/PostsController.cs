@@ -15,7 +15,7 @@ public class PostsController : ControllerBase
         _dataContext = dataContext;
     }
 
-    [HttpGet("/")]
+    [HttpGet(Name = "/")]
     public async Task<IActionResult> GetAll()
     {
         return Ok(await _dataContext.Posts.Include(c => c.Category).ToListAsync());
