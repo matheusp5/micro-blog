@@ -1,0 +1,12 @@
+C:\Users\windows\RiderProjects\MicroBlog\MicroBlog.Core\bin\Debug\net7.0\MicroBlog.Core.deps.json
+C:\Users\windows\RiderProjects\MicroBlog\MicroBlog.Core\bin\Debug\net7.0\MicroBlog.Core.dll
+C:\Users\windows\RiderProjects\MicroBlog\MicroBlog.Core\bin\Debug\net7.0\MicroBlog.Core.pdb
+C:\Users\windows\RiderProjects\MicroBlog\MicroBlog.Core\obj\Debug\net7.0\MicroBlog.Core.csproj.AssemblyReference.cache
+C:\Users\windows\RiderProjects\MicroBlog\MicroBlog.Core\obj\Debug\net7.0\MicroBlog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\RiderProjects\MicroBlog\MicroBlog.Core\obj\Debug\net7.0\MicroBlog.Core.AssemblyInfoInputs.cache
+C:\Users\windows\RiderProjects\MicroBlog\MicroBlog.Core\obj\Debug\net7.0\MicroBlog.Core.AssemblyInfo.cs
+C:\Users\windows\RiderProjects\MicroBlog\MicroBlog.Core\obj\Debug\net7.0\MicroBlog.Core.csproj.CoreCompileInputs.cache
+C:\Users\windows\RiderProjects\MicroBlog\MicroBlog.Core\obj\Debug\net7.0\MicroBlog.Core.dll
+C:\Users\windows\RiderProjects\MicroBlog\MicroBlog.Core\obj\Debug\net7.0\refint\MicroBlog.Core.dll
+C:\Users\windows\RiderProjects\MicroBlog\MicroBlog.Core\obj\Debug\net7.0\MicroBlog.Core.pdb
+C:\Users\windows\RiderProjects\MicroBlog\MicroBlog.Core\obj\Debug\net7.0\ref\MicroBlog.Core.dll

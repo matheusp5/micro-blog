@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroBlog.Core", "MicroBlog
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroBlog.Posts", "MicroBlog.Posts\MicroBlog.Posts.csproj", "{5E660910-4421-45D5-B927-53EC54267504}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroBlog.Categories", "MicroBlog.Categories\MicroBlog.Categories.csproj", "{C6A9BCA3-4F2E-404E-80BB-554DB078E8A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{5E660910-4421-45D5-B927-53EC54267504}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E660910-4421-45D5-B927-53EC54267504}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E660910-4421-45D5-B927-53EC54267504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A9BCA3-4F2E-404E-80BB-554DB078E8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A9BCA3-4F2E-404E-80BB-554DB078E8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A9BCA3-4F2E-404E-80BB-554DB078E8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A9BCA3-4F2E-404E-80BB-554DB078E8A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
